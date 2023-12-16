@@ -23,4 +23,4 @@ spec:
     spec:
       containers:
       - name: mongodb
-        image: adithyaprakash/mongodb:1.0.0
+        image: ssap018/mongodb:1.0.0
